@@ -23,9 +23,7 @@ AI Resume Builder is a sophisticated web application that leverages artificial i
 
 ## Demo
 
-🔗 Watch a demonstration on [YouTube](https://youtu.be/IBdpMBvtZhU)  
-
-🌐 Live demo: [AI Resume Builder](https://main--ai-resume-builder-07.netlify.app/)  
+🌐 Live demo: [Resume Builder](https://resume-builder214.netlify.app/)  
 
 ![Thumbnail](./Screenshot/Thumbnil.png)
 
@@ -37,8 +35,8 @@ To run AI Resume Builder locally, follow these steps:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/sahidrajaansari/ai-resume-builder.git
-cd ai-resume-builder
+git clone hhttps://github.com/AdityaVishwakarma0/Resume-Builder.git
+cd Resume-Builder
 ```
 
 ### 2️⃣ Create Environment Files  
@@ -50,7 +48,7 @@ Before proceeding, create the necessary environment files for **both frontend an
 Create a `.env` file inside the `Backend/` directory and add the following:  
 
 ```plaintext
-MONGODB_URI={Your MongoDB URI} # If using Docker: mongodb://mongodb:27017/ai-resume-builder
+MONGODB_URI={Your MongoDB URI} # If using Docker: mongodb://mongodb:27017/resume-builder
 PORT=5001
 JWT_SECRET_KEY={Your Secret Key} #example "secret"
 JWT_SECRET_EXPIRES_IN="1d"
@@ -171,8 +169,8 @@ Click the **Fork** button on the top right of the repository page.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/your-username/ai-resume-builder.git
-cd ai-resume-builder
+git clone https://github.com/your-username/Resume-Builder.git
+cd Resume-Builder
 ```
 
 ### 3. Create a New Branch
@@ -200,14 +198,7 @@ git commit -m "Describe your changes"
 git push origin feature-name
 ```
 
-### 7. Create a Pull Request (PR)
-
-- Go to the original repository:  
-  **https://github.com/sahidrajaansari/ai-resume-builder**
-- Click **"New Pull Request"** and select your branch.
-- Add a description and submit your PR.
-
-### 8. Review & Merge  
+### 7. Review & Merge  
 
 The maintainers will review your PR. Once approved, it will be merged into the main repository.
 
@@ -215,7 +206,7 @@ The maintainers will review your PR. Once approved, it will be merged into the m
 
 ## Developers 👨‍💻👩‍💻
 
-- [@Sahid Raja Ansari](https://www.linkedin.com/in/sahidrajaansari/)
-- [@Shaharyar Alam](https://www.linkedin.com/in/shaharyar-alam-305322208/)
+- [@Aditya Vishwakarma](https://www.linkedin.com/in/aditya-vishwakarma-3135763a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 ---
